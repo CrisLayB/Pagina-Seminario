@@ -1,0 +1,13 @@
+Poner en Head
+Individual:
+<link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
+
+Junto:
+<link href="https://fonts.googleapis.com/css?family=Noto+Sans|Roboto|Roboto+Condensed&display=swap" rel="stylesheet">
+
+
+font-family: 'Noto Sans', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Roboto Condensed', sans-serif;
+
+FONT-FAMILY:Arial,Helvetica,sans-serif">
